@@ -1,0 +1,8 @@
+com\test\entity\Company.class
+com\test\service\impl\EmployeeServiceImpl.class
+com\test\dao\EmployeeDao.class
+com\test\dao\impl\EmployeeDaoImpl.class
+com\test\app\App.class
+com\test\entity\Employee.class
+com\test\service\EmployeeService.class
+com\test\Utility\HibernateUtility.class
